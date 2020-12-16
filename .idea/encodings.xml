@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/scwcommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scworder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scworder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scwproject" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scwproject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scwuser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scwuser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scwwebui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/scwwebui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwparent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwregister" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scwregister/src/main/java" charset="UTF-8" />
+  </component>
+</project>
